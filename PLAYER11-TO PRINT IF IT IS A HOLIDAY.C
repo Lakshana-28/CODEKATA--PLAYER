@@ -10,7 +10,7 @@ int main()
     l=strlen(a);
     for(i=0;i<l;i++)
     {
-   if(a[i]=='s'||a[i]=='a'||a[i]=='t'||a[i]=='u'||a[i]=='r'||a[i]=='d'||a[i]=='a'||a[i]=='y'||a[i]=='n')
+   if(a[i]=='S'||a[i]=='a'||a[i]=='t'||a[i]=='u'||a[i]=='r'||a[i]=='d'||a[i]=='a'||a[i]=='y'||a[i]=='n')
    {
       cnt++;
    }
